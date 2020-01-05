@@ -1,0 +1,5 @@
+Account,Name,Balance,Acct_num_name
+1010,Cash,3000,1010_Cash
+2110,Accounts Payable,-2000,2110_Accounts Payable
+5100,Revenues,-1500,5100_Revenues
+6100,Expenses,500,6100_Expenses
