@@ -1,0 +1,10 @@
+name,path,size,modified_date
+new_tb.csv,E:\pythonic_accountant\002 Loading a super simple excel trial balance into Python,181,2019-11-21 23:45:40.112363
+tb.xlsx,E:\pythonic_accountant\002 Loading a super simple excel trial balance into Python,9498,2019-11-21 23:07:55.898612
+msft.csv,E:\pythonic_accountant\005 Getting stock market data from the web with Python,137815,2019-12-19 00:35:45.816509
+msft-checkpoint.csv,E:\pythonic_accountant\005 Getting stock market data from the web with Python\.ipynb_checkpoints,137815,2019-12-19 00:35:45.816509
+tb.xlsx,E:\pythonic_accountant\006 Dictionaries for accounting,19211,2020-01-03 23:42:54.774369
+~$tb.xlsx,E:\pythonic_accountant\006 Dictionaries for accounting,165,2020-01-03 23:23:55.856837
+tb.xlsx,E:\pythonic_accountant\007 Pandas join and merge,19211,2020-01-03 23:42:54.774369
+~$tb.xlsx,E:\pythonic_accountant\007 Pandas join and merge,165,2020-01-03 23:23:55.856837
+notes_data.xlsx,"E:\pythonic_accountant\008 docx templates for financial statement footnotes, audit reports, etc",9482,2020-01-06 21:55:16.165973
