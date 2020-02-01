@@ -1,0 +1,36 @@
+,vend_num,vend_name,inv_dt,due_dt,inv_amt,net_amt,description
+0,200,United Parcel Service,2020-03-26,2020-06-26,75.0,75.0,Overnight document delivery
+1,200,United Parcel Service,2020-03-27,2020-06-27,75.0,75.0,Postage
+2,200,United Parcel Service,2020-07-26,2020-07-26,75.0,75.0,Overnight document delivery
+3,202,"Software Technology, LLC",2020-08-20,2020-08-25,490.0,490.0,Software Maintenance Agreement Tabs3
+4,202,"Software Technology, LLC",2020-08-20,2020-08-25,239.0,239.0,Software Maintenance Agreement Tabs3 General Ledger
+5,202,"Software Technology, LLC",2020-08-20,2020-08-25,239.0,239.0,Software Maintenance Agreement Tabs3 Accounts Payable
+6,202,"Software Technology, LLC",2020-08-20,2020-08-25,239.0,239.0,Software Maintenance Agreement Tabs3 Trust Accounting
+7,202,"Software Technology, LLC",2020-08-20,2020-08-25,800.0,800.0,Software Maintenance Agreement PracticeMaster (9 Users)
+8,202,"Software Technology, LLC",2020-08-20,2020-08-25,105.0,105.0,Software Maintenance Agreement Tabs3 Taskbill
+9,202,"Software Technology, LLC",2020-08-25,2020-08-30,205.0,205.0,Purchase Tabs3 Device Interface Program
+10,203,Clerk of the County Court,2020-04-26,2020-04-26,225.0,225.0,"Documentation Fee, Filing Fee, and Sheriff Service Fee"
+11,204,Clerk of the District Court,2020-03-27,2020-03-27,75.0,75.0,Filing fee
+12,204,Clerk of the District Court,2020-05-20,2020-05-20,75.0,75.0,Filing fee
+13,204,Clerk of the District Court,2020-08-20,2020-08-20,150.0,150.0,Petition for Dissolution of Marriage Filing Fee
+14,225,Jackson/Wylinda,2019-12-24,2019-12-24,750.0,750.0,Holiday Party
+15,225,Jackson/Wylinda,2020-07-26,2020-07-26,1500.0,1500.0,Catering/Firm Retreat
+16,240,NELCO,2020-07-26,2020-08-26,129.85,129.85,Check order for APS and TAS Checks
+17,250,D & B Real Estate Management Company,2020-07-22,2020-07-22,7500.0,7500.0,"Monthly Rent (Including Electric, Gas & Garbage)"
+18,250,D & B Real Estate Management Company,2020-07-26,2020-07-26,7500.0,7500.0,"Monthly Rent (Including Electric, Gas & Garbage)"
+19,250,D & B Real Estate Management Company,2020-08-13,2020-08-13,10.0,10.0,Duplicate Key for building
+20,300,Thomson Reuters Payment Center,2020-04-25,2020-04-25,4.0,4.0,Online Legal Research
+21,300,Thomson Reuters Payment Center,2020-05-24,2020-05-24,75.0,75.0,Online Legal Research
+22,300,Thomson Reuters Payment Center,2020-06-25,2020-06-25,40.0,40.0,Online Legal Research
+23,300,Thomson Reuters Payment Center,2020-07-29,2020-07-29,4.0,4.0,Online Legal Research
+24,300,Thomson Reuters Payment Center,2020-07-30,2020-07-30,50.0,50.0,Online Legal Research
+25,300,Thomson Reuters Payment Center,2020-07-30,2020-07-30,50.0,50.0,Online Legal Research
+26,300,Thomson Reuters Payment Center,2020-07-30,2020-07-30,50.0,50.0,Online Legal Research
+27,300,Thomson Reuters Payment Center,2020-07-30,2020-07-30,50.0,50.0,Online Legal Research
+28,325,Professional Messenger Services,2020-06-21,2020-06-21,20.0,20.0,Courier Fee
+29,325,Professional Messenger Services,2020-06-24,2020-06-24,25.0,25.0,Courier Fee
+30,325,Professional Messenger Services,2020-08-25,2020-08-25,47.5,47.5,Courier Fee
+31,325,Professional Messenger Services,2020-08-25,2020-08-25,35.0,35.0,Courier Fee
+32,400,Sprint Local & Long Distance,2020-08-20,2020-08-25,68.96,68.96,November Cell Phone Charges
+33,700,Clean All Janitorial Services,2020-07-22,2020-07-25,750.0,750.0,Monthly Cleaning Charges (Bi-Weekly Service)
+34,700,Clean All Janitorial Services,2020-07-26,2020-08-25,750.0,750.0,Monthly Cleaning Charges (Bi-Weekly Service)
